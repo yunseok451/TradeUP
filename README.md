@@ -46,11 +46,6 @@
 
 ---
 
-## 📁 프로젝트 구조 예시
-
-part3/ ├── index.php ├── login.php ├── register.php ├── add_product.php ├── product_list.php ├── db/ │ └── db_config.php ├── assets/ │ ├── css/ │ └── js/ └── sql/ └── tradeup.sql
-
----
 
 ## 📌 향후 개선 방향
 
