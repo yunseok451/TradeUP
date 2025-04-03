@@ -45,7 +45,38 @@
 웹 브라우저에서 아래 주소로 접속합니다:  
 
 ---
+## 🌄 화면 미리보기
 
+TradeUP의 주요 화면들을 아래에서 확인하실 수 있습니다.
+
+<table>
+  <tr>
+    <td align="center"><b>🏠 메인 페이지</b></td>
+    <td align="center"><b>🔍 장바구니</b></td>
+  </tr>
+  <tr>
+    <td><img src="./images/메인화면.png" width="100%"></td>
+    <td><img src="./images/장바구니.png" width="100%"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>📄 관리자계정페이지</b></td>
+    <td align="center"><b>➕ 회원가입</b></td>
+  </tr>
+  <tr>
+    <td><img src="./images/관리자계정페이지.png" width="100%"></td>
+    <td><img src="./images/회원가입.png" width="100%"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🔐 DB</b></td>
+    <td align="center"><b>🙋 유저게시판</b></td>
+  </tr>
+  <tr>
+    <td><img src="./images/db.png" width="100%"></td>
+    <td><img src="./images/유저게시판.png" width="100%"></td>
+  </tr>
+</table>
+
+---
 
 ## 📌 향후 개선 방향
 
